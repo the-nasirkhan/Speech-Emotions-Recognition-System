@@ -1,4 +1,4 @@
-# Speech-Emotions-Recognition-System
+
 **Jamia Hamdard University B.Tech Minor Project in Speech Emotions Recognition System using Deep Learning**
 
 <h1 align="left">SPEECH EMOTION RECOGNITION SYSTEM</h1>
@@ -9,6 +9,9 @@ Through all the available senses humans can actually sense the emotional state o
 The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS) Dataset from Kaggle contains 1440 audio files from 24 Actors vocalizing two lexically-matched statements. Emotions include angry, happy, sad, fearful, calm, neutral, disgust, and surprised.[Dataset].(https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio)
 
 <h2 align="left">STEPS</h2>
+
+Step 1: IMPORT DEPENDENCIES LIBRARIES
+Step 2: LOAD THE RAVDESS DATASET
 
 1: IMPORT DEPENDENCIES LIBRARIES
 2: LOAD THE RAVDESS DATASET
